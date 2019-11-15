@@ -1,0 +1,16 @@
+.navigation-container{
+  background: #373837;
+  text-align: center;
+  color: #fff;
+  min-height: 50px;
+  height: fit-content;
+}
+.nav-title{
+ vertical-align: text-top;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.search{
+  float:right;
+  height:auto;
+}
